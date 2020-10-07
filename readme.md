@@ -17,6 +17,10 @@ Project has been developed by UCF Senior Design students, including:
 
 ## 2020-2021
  - Victor Solal
+ - Morgan Wilkinson
+ - Owen Mak
+ - John Lynch
+ - Faisal Salameh
 
 ## 2019-2020
  - Matthew Kurtz
